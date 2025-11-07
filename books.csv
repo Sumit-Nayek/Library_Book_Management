@@ -1,0 +1,6 @@
+book_id,title,author,isbn,status,borrower,due_date
+1,The Great Gatsby,F. Scott Fitzgerald,9780743273565,Available,,
+2,To Kill a Mockingbird,Harper Lee,9780061120084,Borrowed,John Doe,2024-02-15
+3,1984,George Orwell,9780451524935,Available,,
+4,Pride and Prejudice,Jane Austen,9780141439518,Borrowed,Jane Smith,2024-02-20
+5,The Catcher in the Rye,J.D. Salinger,9780316769174,Available,,

@@ -19,3 +19,12 @@ A simple yet powerful web application built with Streamlit for managing library 
 - **Deployment**: Streamlit Cloud
 
 ---
+<div align="center">
+
+**⭐ Don't forget to star this repository if you found it helpful!**
+
+*Happy Coding! 🐍*
+
+</div>
+
+**Note**: This project is designed for educational purposes. Feel free to modify and expand upon it for your learning journey!
